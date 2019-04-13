@@ -1,3 +1,8 @@
+buildroot-linux-3ds is the Buildroot fork for Linux 3DS.
+Toolchain can be made with 'make toolchain'.
+
+Original README:
+
 Buildroot is a simple, efficient and easy-to-use tool to generate embedded
 Linux systems through cross-compilation.
 
