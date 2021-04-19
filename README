@@ -1,4 +1,4 @@
-buildroot-linux-3ds is the Buildroot fork for Linux 3DS.
+buildroot-linux-3ds is the Buildroot fork for Linux 3DS (2018 builds only!)
 Toolchain can be made with 'make toolchain'.
 
 Original README:
